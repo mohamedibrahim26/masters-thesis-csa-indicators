@@ -6,7 +6,7 @@ A Systematic Literature Review of how organisations measure cybersecurity awaren
 >
 > **Supervisor:** Erik Bergström · **Examiner:** Joakim Kävrestad · **Scope:** 15 ECTS
 
-[Please Read the full thesis (PDF)](Mastersthesis.pdf)
+[Read the full thesis (PDF)](Mastersthesis.pdf)
 
 ## Summary
 
